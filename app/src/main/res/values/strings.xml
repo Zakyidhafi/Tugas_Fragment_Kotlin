@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment_Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat datang</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="apa_itu_kotlin">Apa itu Kotlin ?</string>
+    <string name="Isi">Kotlin adalah bahasa pemrograman modern, disajikan secara statis yang berjalan pada platform Java Virtual Machine (JVM). Kotlin menggunakan compiler LLVM yang artinya, dapat dikompilasi ke dalam kode JavaScript</string>
+</resources>
